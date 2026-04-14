@@ -1,0 +1,32 @@
+bfa-rainfall-subnat-full.csv:
+
+Source: Climate Hazards Center UC Santa Barbara & WFP
+
+Location: Burkina Faso
+
+Frequency: Every 10 days
+
+Data:
+10 day rainfall [mm] (rfh)
+rainfall 1-month rolling aggregation [mm] (r1h)
+rainfall 3-month rolling aggregation [mm] (r3h)
+rainfall long term average [mm] (rfh_avg)
+rainfall 1-month rolling aggregation long term average [mm] (r1h_avg)
+rainfall 3-month rolling aggregation long term average [mm] (r3h_avg)
+rainfall anomaly [%] (rfq)
+rainfall 1-month anomaly [%] (r1q)
+rainfall 3-month anomaly [%] (r3q)
+
+
+Time period: 01 January 1981 - 20 April 2026
+
+Methodology:
+Rainfall estimates are derived from satellite observations and combined with rain gauge data. For more information, please visit the CHIRPS 
+product page. For information about the CHIRPS-GEFS short term forecasts, please visit the information page. The rainfall estimates (in mm) 
+are averaged by subnational administrative units defined by WFP datasets, and the subsequent indicators (aggregations, averages and anomalies) 
+are calculated directly from the averaged data. The anomalies (in %) are calculated in reference to the long term average of the timeseries, 
+which is calculated over the reference period 1989-01-01 to 2018-12-31. To provide valid dates, the dekads are mapped to their start date. 
+Therefore, the 1st dekad corresponds to the 1st of each month, the 2nd dekad to the 11th and the 3rd dekad to the 21st.
+
+
+
