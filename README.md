@@ -1,3 +1,3 @@
-# CloudSeedingATOC2500
+# SahelCloudSeeding
 
-This repository contains the data and Python scripts for my final research project in ATOC 2500. The project investigates the effectiveness of cloud seeding as a strategy to support restoration efforts in the Sahel, such as the Great Green Wall.
+This repository contains data and Python scripts for my final project in ATOC 2050 – Introduction to Atmospheric Research. The project explores the potential effectiveness of cloud seeding as a strategy to help combat desertification in the Sahel.
