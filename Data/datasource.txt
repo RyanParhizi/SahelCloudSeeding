@@ -1,3 +1,4 @@
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
 bfa-rainfall-subnat-full.csv:
 
 Source: Climate Hazards Center UC Santa Barbara & WFP
@@ -28,5 +29,9 @@ are calculated directly from the averaged data. The anomalies (in %) are calcula
 which is calculated over the reference period 1989-01-01 to 2018-12-31. To provide valid dates, the dekads are mapped to their start date. 
 Therefore, the 1st dekad corresponds to the 1st of each month, the 2nd dekad to the 11th and the 3rd dekad to the 21st.
 
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
