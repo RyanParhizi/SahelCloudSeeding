@@ -30,8 +30,9 @@ which is calculated over the reference period 1989-01-01 to 2018-12-31. To provi
 Therefore, the 1st dekad corresponds to the 1st of each month, the 2nd dekad to the 11th and the 3rd dekad to the 21st.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
+bfa-temp.csv
 
-
+source: https://www.extremeweatherwatch.com/countries/burkina-faso/average-temperature-by-year
 
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
